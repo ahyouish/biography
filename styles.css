@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.bio-section {
+    margin-bottom: 20px;
+}
+
+.bio-section h2 {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.bio-section p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+}
